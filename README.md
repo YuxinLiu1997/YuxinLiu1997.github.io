@@ -1,2 +1,2 @@
-# personal_web
-Personal website
+# Personal Website
+Jiameng Lyu
